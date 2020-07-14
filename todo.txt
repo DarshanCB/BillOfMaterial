@@ -1,0 +1,35 @@
+﻿* life cycle state definition muss noch festgelget werden
+
+* excel import parallel zu csv
+
+* progressbar optimieren
+
+* update counter bei import, zeigt fortschritt besser
+
+* import / update hersteller
+	-> status released noch eingeben bzw. aus BOM nutzen -> geht nicht
+
+* import / update hersteller part
+   -> status released noch eingeben bzw. aus BOM nutzen -> geht nicht
+
+* import / update part
+	-> status released noch eingeben bzw. aus BOM nutzen
+	-> weitere Parameter füllen (aus beschreibung parsen)
+
+
+* Verknüpfung part - manufacturer part
+	-> bei update Part fehlt
+
+* Verknüpfung part - part = BOM
+	-> bei update Part fehlt
+
+
+* Dateiupload fehlt
+
+* Interface OctoPart
+
+* PCN / CRQ import plus word file upload
+
+* create new token, wenn abgelaufen...
+
+
